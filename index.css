@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+body {
+    background-color: #FFFACD;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-attachment: fixed;
+    background-image: linear-gradient(#FFFACD, #fffacd2d);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #0000006c;
+    padding: 20px;
+}
+
+body > header > h1{
+    text-align: center;
+    color: #000000; 
+    font-family: monospace;
+    font-size: 60px;
+    margin: 40px auto;
+    text-decoration: underline;
+}
+
+body > header > nav{
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px auto;
+}
+
+body > header > nav > a{
+    margin: 2px;
+    color: black;
+    background-color: #999044;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: flow-root;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+    font-family: monospace;
+}
+
+nav > a:hover{
+    background-color: #999044bb;
+    text-decoration: wavy;
+}
+
+body > header > img{
+    width: 400px;
+    height: 400px;
+    margin: 10px auto;
+    border-radius: 50%;
+    display: block;
+    border-color: #000000;
+    border-style: solid;
+    border-width: 10px;
+
+}
+
+body > header > h2{
+    text-align: center;
+    margin: 30px auto;
+    font-family: monospace;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+body > header > h3 {
+    text-align: justify;
+    font-family: monospace;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: normal;
+    background-color: #999044;
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 30px;
+}
+
+body > header > p{
+    text-align: justify;
+    margin: 50px auto;
+    background-color: #E2DDB5;
+    border-radius: 5px;
+    padding: 30px;
+    color: #000000;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+footer {
+    text-align: end;
+    font-size: 16px;
+    margin: 30px auto;
+    padding: 10px 20px;
+    color: #000000;
+    background-color: #E2DDB5;
+    border-radius: 5px;
+    font-family: monospace;
+}
+
