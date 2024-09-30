@@ -17,7 +17,7 @@ h1 {
     text-align: center;
     color: #000000;
     font-family: monospace;
-    font-size: 40px;
+    font-size: 30px;
     padding: 15px 0px;
     margin: auto;
     text-decoration: underline;
@@ -26,7 +26,7 @@ h1 {
 body > section > a {
     color: #000000;
     text-align: justify;
-    font-size: 25px;
+    font-size: 20px;
     font-family: monospace;
     text-decoration: none;
     font-style: normal;
