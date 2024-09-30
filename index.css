@@ -47,7 +47,7 @@ nav > a:hover{
     text-decoration: wavy;
 }
 
-body > header > img{
+body > header > picture > img{
     width: 400px;
     height: 400px;
     margin: 10px auto;
