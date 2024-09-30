@@ -4,7 +4,7 @@ body {
     background-color: #FFFACD;
     font-family: monospace;
     color: black;
-    border-radius: 5px;
+    border-radius: 10px;
     border-width: 1px;
     border-style: solid;
     box-shadow: 3px 3px 3px #0000006c;
@@ -32,7 +32,7 @@ body > section > a {
     font-style: normal;
     font-weight: bold;
     background-color: #999044;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 a:hover {
@@ -42,16 +42,17 @@ a:hover {
 }
 
 body > section > p {
-    font-size: 18px;
+    font-size: 14px;
     border-style: none;
     border-radius: 10px;
     border: 10px;
     margin: 30px auto;
+    padding: 20px 10px;
 }
 
 footer {
     text-align: end;
-    font-size: 16px;
+    font-size: 14px;
     margin: 30px auto 0px auto;
     padding: 10px 20px;
     color: #000000;
@@ -60,7 +61,7 @@ footer {
 }
 
 h4 > a {
-    font-size: 16px;
+    font-size: 14px;
     color: #000000;
     font-style: normal;
     font-family: monospace;
