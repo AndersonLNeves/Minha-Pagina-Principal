@@ -28,7 +28,7 @@ body > h2 {
     color: #000000;
     font-family: monospace;
     font-size: 30px;
-    padding: 15px 5px;
+    padding: 15px auto;
     margin: 20px auto;
     text-decoration: underline;
     background-color: #999044;
